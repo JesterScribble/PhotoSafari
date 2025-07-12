@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "serve": "/photosafari.html"
+    },
+    {
+      "route": "/*",
+      "serve": "/photosafari.html"
+    }
+  ],
+  "responseOverrides": {
+    "404": {
+      "redirect": "/photosafari.html"
+    }
+  }
+}
