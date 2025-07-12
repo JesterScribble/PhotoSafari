@@ -1,2 +1,2 @@
 # PhotoSafari
-Repo for PhotoSafari project
+Repo for PhotoSafari project.
